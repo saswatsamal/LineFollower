@@ -32,6 +32,10 @@ The working of a line follower robot is pretty straight forward. These robots ha
 
 <img src="images/working.png" width=1600>
 
+### Principle:
+
+<img src="https://d3b8hk1o42ev08.cloudfront.net/wp-content/uploads/2018/07/ir-sensor-working.png" width=900>
+
 ## Code
 
 This is a very basic code for the Line Follower Robot with 2 IR sensors. (<a href="">Click Here</a>)
